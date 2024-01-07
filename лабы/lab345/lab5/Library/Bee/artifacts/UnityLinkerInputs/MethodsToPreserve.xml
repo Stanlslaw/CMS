@@ -1,0 +1,80 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="AnimationSteps">
+			<method name="Step1"/>
+			<method name="Step2"/>
+			<method name="Step3"/>
+			<method name="Step4"/>
+			<method name="Step6"/>
+			<method name="Step8"/>
+		</type>
+		<type fullname="ChangeColor">
+			<method name="BackColor"/>
+			<method name="BackColor"/>
+			<method name="BackColor"/>
+			<method name="BackColor"/>
+			<method name="BackColor"/>
+			<method name="BackColor"/>
+			<method name="BackColor"/>
+			<method name="BackColor"/>
+			<method name="ChangeCol"/>
+			<method name="ChangeCol"/>
+			<method name="ChangeCol"/>
+			<method name="ChangeCol"/>
+			<method name="ChangeCol"/>
+			<method name="ChangeCol"/>
+			<method name="ChangeCol"/>
+			<method name="ChangeCol"/>
+		</type>
+		<type fullname="MoveCam">
+			<method name="MoveAmpermetr"/>
+			<method name="MoveCorpus"/>
+			<method name="MoveR1"/>
+			<method name="MoveR2"/>
+			<method name="MoveStart"/>
+			<method name="MoveSwitch1"/>
+			<method name="MoveSwitch2"/>
+			<method name="MoveVoltmetr"/>
+		</type>
+		<type fullname="StepsDescription">
+			<method name="Reset"/>
+			<method name="Step1"/>
+			<method name="Step2"/>
+			<method name="Step3"/>
+			<method name="Step5"/>
+			<method name="Step6"/>
+			<method name="Step7"/>
+			<method name="Step8"/>
+		</type>
+		<type fullname="TableHandle">
+			<method name="Clear"/>
+			<method name="OnNextStep"/>
+		</type>
+		<type fullname="TextDescription">
+			<method name="OnExit"/>
+			<method name="OnExit"/>
+			<method name="OnExit"/>
+			<method name="OnExit"/>
+			<method name="OnExit"/>
+			<method name="OnExit"/>
+			<method name="OnExit"/>
+			<method name="ShowAmperText"/>
+			<method name="ShowCorpusText"/>
+			<method name="ShowR1Text"/>
+			<method name="ShowR2Text"/>
+			<method name="ShowSwitch1Text"/>
+			<method name="ShowSwitch2Text"/>
+			<method name="ShowVoltText"/>
+		</type>
+		<type fullname="Window_up2">
+			<method name="Close"/>
+			<method name="Close"/>
+			<method name="Open"/>
+			<method name="Open"/>
+		</type>
+		<type fullname="Windows_up">
+			<method name="OnExit"/>
+			<method name="ShowHint"/>
+		</type>
+	</assembly>
+</linker>
